@@ -50,7 +50,6 @@
 - [DEMO interruptible fiber algorithm](https://codesandbox.io/s/fiber-demo-pvwgo)
   - code also in repo in fiber-demo folder
 - Fibers loosely-correspond to components and have pointers to child, parent, and sibling (like a linked list)
-  ![DFS](images/DFS.png)
   ![fiberstructure](images/fiberstructure.png)
   ![Fibers](images/Fibers.png)
 - Fibers also enable stateful functional components because react internally associates your `useState` and `useEffect` hooks with the currently rendering fiber
