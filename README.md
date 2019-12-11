@@ -1,6 +1,6 @@
 # Intro
 
-- Suspense and Concurrent Mode help improve user experience when CPU or IO work is lagging
+- Suspense and Concurrent Mode help improve user experience when CPU or IO is lagging
 - Also improves user experience when CPU/IO is fast (minimizes flash of loading spinners/jankiness which cause reflows and slower perceived user experience)
 - Allows a web app to feel like a fast & fluid native app with smooth responsive transitions
 - facebook is building v5 of their site on these features and [it looks awesome](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/)
