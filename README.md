@@ -1,6 +1,5 @@
 # Intro
 
-- `cmd shift 5` record reminder
 - Suspense and Concurrent Mode help improve user experience when CPU or IO is lagging
 - Also improves user experience when CPU/IO is fast (minimizes flash of loading spinners/jankiness which cause reflows and slower perceived user experience)
 - Allows a web app to feel like a fast & fluid native app with smooth responsive transitions
